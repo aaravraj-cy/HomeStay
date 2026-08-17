@@ -1,6 +1,6 @@
-# Sonam Homestay - Homestay Booking (BCA Level)
+# Sonam Homestay - Homestay Booking
 
-Simple Core PHP + MySQL project. No jQuery. No AJAX. Easy to understand for BCA 2nd year students.
+Simple Core PHP + MySQL project.
 
 ## Setup (XAMPP)
 
